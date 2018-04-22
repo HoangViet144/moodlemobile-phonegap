@@ -11,8 +11,8 @@
         ICMF Mobile official app
     </description>
 
-    <author href="http://study24.co.zw" email="mobile@study24.co.zw">
-        Study24 Pvt Ltd
+    <author href="http://study24.co.zw" email="support@study24.co.zw">
+        Study24 Electronic Education
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
