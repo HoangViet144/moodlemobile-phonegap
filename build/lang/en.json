@@ -13,7 +13,7 @@
     "mm.core.areyousure": "Are you sure?",
     "mm.core.back": "Back",
     "mm.core.cancel": "Cancel",
-    "mm.core.cannotconnect": "Cannot connect: Verify that you have correctly typed the URL and that your site uses Moodle 2.4 or later.",
+    "mm.core.cannotconnect": "Cannot connect: Verify that you have correctly typed the URL and that your site uses Elearnset 2.4 or later.",
     "mm.core.cannotdownloadfiles": "File downloading is disabled. Please contact your site administrator.",
     "mm.core.captureaudio": "Record audio",
     "mm.core.capturedimage": "Taken picture.",
