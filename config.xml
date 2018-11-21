@@ -3,12 +3,12 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.study24.bttcmobile"
-        versionCode = "3"
+        versionCode = "3.5"
         version   = "1.2">
-    <name>BTTC Mobile</name>
+    <name>HilbrightPD</name>
 
     <description>
-        BTTC Mobile official app
+        HilbrightPD Official Mobile App
     </description>
 
     <author href="http://study24.co.zw" email="support@study24.co.zw">
